@@ -1,6 +1,6 @@
 """
     Ejemplo de estructura de condicional
-    múltiple
+    múltiple prueba modificacion 
 """
 
 # Declaración de variables
